@@ -83,12 +83,21 @@ Some notes:
 ## <a name=tools></a>Tools & References
 ### Free or mostly-free tools
 1. <a name=free-tool1></a>[Founder's Workbench](http://www.foundersworkbench.com/document-driver/) - generate incorporation documents
-2. <a name=free-tool2></a>[FreeRegisteredAgent](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - one year of free registered agent service in DE and/or CA
-3. <a name=free-res3></a>[HelloFax](https://www.hellofax.com?ref=43d04ff4&s=F) - send faxes without a fax machine
+2. <a name=free-tool-orrick></a>[Startup Forms Library](https://www.orrick.com/practices/emerging-companies/startup-forms/Pages/default.aspx) - another source of incorporation and startup documents.
+3. <a name=free-tool2></a>[FreeRegisteredAgent](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - one year of free registered agent service in DE and/or CA
+4. <a name=free-res3></a>[HelloFax](https://www.hellofax.com?ref=43d04ff4&s=F) - send faxes without a fax machine
+5. <a name=safe></a>[Y-Combinator SAFE](https://www.ycombinator.com/documents/) - Y Combinator's SAFE documents to accept investments
 
 ### <a name=nonfree-tools></a>Non-free tools
 1. <a name=tool1></a>[InCorp](http://www.freeregisteredagent.com/delaware/registered-agent-service/) - will file DE incorporation papers quickly on your behalf for ~$150, including state fees
+2. <a name=gusto></a>[Gusto](https://gusto.com/) - online payroll services from $45/mo
 
 ### References
 * **Q:** Choosing between C-corp, S-corp, and LLC? [Answer](http://www.obliviousinvestor.com/llc-vs-s-corp-vs-c-corp/)
 * **Q:** Why incorporate in DE? [Answer](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware)
+
+### Miscellaneous
+
+ * Add the following whistleblower protection clause to NDA's to comply with the Defend Trade Secrets Act:
+ 
+  Notice of Immunity from Liability. An individual shall not be held criminally or civilly liable under any federal or state trade secret law for the disclosure of a trade secret that is made (i) in confidence to a federal, state, or local government official, either directly or indirectly, or to an attorney; and (ii) solely for the purpose of reporting or investigating a suspected violation of law; or is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal. An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual (i) files any document containing the trade secret under seal; and (ii) does not disclose the trade secret, except pursuant to court order.
